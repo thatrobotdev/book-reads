@@ -1,0 +1,175 @@
+.wonder {
+  width: 50%;
+  height: 250px;
+  background-color: #FFFFD5;
+  position: absolute;
+  right: 20px;
+  top: 200px;
+}
+
+.wonder-small-text {
+  left: 3%;
+  top: 0%;
+  position: absolute;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+
+.wonder-text {
+  top: 12%;
+  left: 3%;
+  position: absolute;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  max-width: 400px;
+}
+
+}
+
+img {
+  border: 1px solid #021a40;
+}
+
+.wonder-img {
+  height: 400px;
+  top: 90px;
+  position: absolute;
+  left: 2%;
+}
+
+.wonder-request-text {
+  font-family: 'Lato', sans-serif;
+  right: 2%;
+  position: absolute;
+}
+
+.wonder-request-number {
+  font-family: 'Raleway', sans-serif;
+  right: 2%;
+  position: absolute;
+  font-size: 50px;
+  color: blue;
+  right: 5%;
+  top: 15%;
+}
+
+.wonder-request-bottom {
+  font-family: 'Lato', sans-serif;
+  bottom: 2%;
+  right: 2.5%;
+  position: absolute;
+}
+
+body {
+  background-color: #D0EEF6;
+}
+
+.hunger {
+  width: 50%;
+  height: 250px;
+  background-color: #FFFFD5;
+  position: absolute;
+  right: 20px;
+  top: 600px;
+}
+
+.hunger-small-text {
+  left: 3%;
+  top: 0%;
+  position: absolute;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+
+.hunger-text {
+  top: 12%;
+  left: 3%;
+  position: absolute;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  max-width: 400px;
+}
+
+.hunger-img {
+  height: 400px;
+  top: 550px;
+  position: absolute;
+  left: 2%;
+}
+
+.hunger-request-text {
+  font-family: 'Lato', sans-serif;
+  right: 2%;
+  position: absolute;
+}
+
+.hunger-request-number {
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+  font-size: 50px;
+  color: blue;
+  right: 5%;
+  top: 15%;
+}
+
+.hunger-request-bottom {
+  font-family: 'Lato', sans-serif;
+  bottom: 2%;
+  right: 2.5%;
+  position: absolute;
+}
+
+.mind {
+  width: 97%;
+  height: 250px;
+  background-color: #FFFFD5;
+  position: absolute;
+  right: 20px;
+  top: 450px;
+}
+
+.mind-small-text {
+  left: 3%;
+  top: 0%;
+  position: absolute;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+
+.mind-text {
+  top: 12%;
+  left: 3%;
+  position: absolute;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  max-width: 400px;
+}
+
+.mind-img {
+  height: 400px;
+  top: 420px;
+  position: absolute;
+  left: -94%;
+}
+
+.mind-request-text {
+  font-family: 'Lato', sans-serif;
+  right: 2%;
+  position: absolute;
+}
+
+.mind-request-number {
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+  font-size: 50px;
+  color: blue;
+  right: 5%;
+  top: 15%;
+}
+
+.mind-request-bottom {
+  font-family: 'Lato', sans-serif;
+  bottom: 2%;
+  right: 2.5%;
+  position: absolute;
+}
