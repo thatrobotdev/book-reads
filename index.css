@@ -264,3 +264,25 @@ body {
   right: 2.5%;
   position: absolute;
 }
+
+/* Table by WSchools */
+table {
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+    top:  215%;
+    position: absolute;
+}
+
+th {
+    cursor: pointer;
+}
+
+th, td {
+    text-align: left;
+    padding: 16px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
