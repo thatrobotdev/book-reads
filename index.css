@@ -176,18 +176,11 @@ body {
   right: 2.5%;
   position: absolute;
 }
-.parallax {
-  background-image: url(http://wallpapercave.com/wp/ijo8KeK.jpg);
-    height: 50%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    max-height: 320px;
-    display: flex;  /* sets this element as a flex parent */
-    flex-direction: column;  /* tells the parent to organize child elements vertically */
-    justify-content: center;  /* center children within the parent element */
-
+.title {
+    position: absolute;
+    top: -3.1%;
+    width: 100%;
+    left: 0%;
 }
 
 /* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
@@ -199,7 +192,7 @@ body {
 }
 
 .maintext {
-  font-size: 60px;
+  font-size: 40px;
   text-align: center;
   color: black;
   background-color: white;
@@ -275,14 +268,29 @@ table {
 }
 
 th {
-    cursor: pointer;
+  background: #00cccc;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 12px;
+  cursor: pointer;
 }
 
 th, td {
-    text-align: left;
-    padding: 16px;
+  color: black;
+  border: 1px solid #eee;
+  padding: 12px 35px;
+  border-collapse: collapse;
+  border-left-color: black;
 }
 
-tr:nth-child(even) {
-    background-color: #f2f2f2
+.love {
+  bottom: -260%;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  left: 0%;
+
 }
